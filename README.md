@@ -2,7 +2,7 @@
 Pieces of code demonstrating how to code on ionic and android
 1. First Hybrid App using ionic
 2. Using UI components from ionic
-  * Lists
+  * [https://github.com/mariaborbones/students_mobile_projects/tree/master/Header%26Footer]Lists
   * Checkboxes
   * NG-Pattern
   * Radio Button
