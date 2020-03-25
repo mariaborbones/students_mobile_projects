@@ -10,8 +10,8 @@ Pieces of code demonstrating how to code on ionic and android
   * [Events](https://github.com/mariaborbones/students_mobile_projects/tree/master/buttonevents)
   * [Header & Footer](https://github.com/mariaborbones/students_mobile_projects/tree/master/Header%26Footer)
   * [Navigation](https://github.com/mariaborbones/students_mobile_projects/tree/master/Navigation)
-  * Pop Up
-  * Slide Box
+  * [Pop Up](https://github.com/mariaborbones/students_mobile_projects/tree/master/popup)
+  * [Slide Box](https://github.com/mariaborbones/students_mobile_projects/tree/master/slide)
   
 3. First Native app on Android
 4. Using UI components from Android
