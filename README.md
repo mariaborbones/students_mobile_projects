@@ -14,7 +14,7 @@ Pieces of code demonstrating how to code on ionic and android
   * [Slide Box](https://github.com/mariaborbones/students_mobile_projects/tree/master/Hybrid%20Ionic/slide)
   * [Complete Form](https://github.com/mariaborbones/students_mobile_projects/tree/master/Hybrid%20Ionic/complete-form)
 
-3. First Native app on Android
-4. Using UI components from Android
-5. Request to HTTP service on ionic
-6. Request to HTTP service on Android
+3. Using UI components from Android
+  * [Currency Converter](https://github.com/mariaborbones/students_mobile_projects/tree/master/Native/CurrencyConverter)
+4. Request to HTTP service on ionic
+5. Request to HTTP service on Android
